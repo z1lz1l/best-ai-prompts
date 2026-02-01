@@ -6,3 +6,4 @@ Anime Style: Anime girl with blue hair standing in a cherry blossom field, studi
 Sci-Fi Interior: Interior of a spaceship, white and clean aesthetic, holographic displays, futuristic furniture, wide angle shot, unreal engine 5 render.
 Macro Nature: Macro shot of a dew drop on a green leaf, sun rays shining through, intricate details, shallow depth of field, nature photography.
 Oil Painting: A stormy sea with a ship struggling against the waves, oil painting style, thick brushstrokes, dramatic mood, classical art.
+Isometric Room: Isometric view of a cozy gamer room, low poly style, neon lighting, computer setup, detailed furniture, 3d render.
