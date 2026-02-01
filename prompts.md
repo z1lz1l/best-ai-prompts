@@ -30,8 +30,8 @@ Model: Flux.1 Pro / SDXL / Midjourney
 Aspect Ratio: 16:9 or 21:9 (Cinematic)
 CFG Scale: 7-9
 Steps: 30-50
-2. 👤 Professional Portrait
-Tags: Photorealistic Portrait 35mm Bokeh Elderly
+### 2. 👤 Professional Portrait
+**Tags:** Photorealistic Portrait 35mm Bokeh Elderly
 Text
 Copy
 Portrait of an elderly man with a beard, deep wrinkles, natural lighting, shot on 35mm camera, bokeh background, photorealistic texture.
