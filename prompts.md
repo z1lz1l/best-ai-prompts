@@ -7,3 +7,4 @@ Sci-Fi Interior: Interior of a spaceship, white and clean aesthetic, holographic
 Macro Nature: Macro shot of a dew drop on a green leaf, sun rays shining through, intricate details, shallow depth of field, nature photography.
 Oil Painting: A stormy sea with a ship struggling against the waves, oil painting style, thick brushstrokes, dramatic mood, classical art.
 Isometric Room: Isometric view of a cozy gamer room, low poly style, neon lighting, computer setup, detailed furniture, 3d render.
+Abstract Art: Abstract composition of swirling colorful smoke, vibrant orange and blue, fluid simulation, black background, digital art.
